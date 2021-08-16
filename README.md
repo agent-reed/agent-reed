@@ -1,7 +1,3 @@
 <div align="center">
-    <img src="https://github.com/agent-reed/agent-reed/blob/master/bird.gif" width="15%">
-    <img src="https://github.com/agent-reed/agent-reed/blob/master/bird.gif" width="15%">
-    <img src="https://github.com/agent-reed/agent-reed/blob/master/bird.gif" width="15%">
-    <img src="https://github.com/agent-reed/agent-reed/blob/master/bird.gif" width="15%">
-    <img src="https://github.com/agent-reed/agent-reed/blob/master/bird.gif" width="15%">
+    <img src="https://media.giphy.com/media/l396LSsmg7xBwgkFy/source.gif" width="50%">
 </div>
