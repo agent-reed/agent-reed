@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="https://media.giphy.com/media/8i3TBPbIdebwWf5IU9/giphy.gif" width="15%">
+    <img src="https://giphy.com/stickers/AudubonSociety-audubon-audubonsociety-national-society-0tR5ugRB15eF9vyFzn" width="15%">
 </div>
